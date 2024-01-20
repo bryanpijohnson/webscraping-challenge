@@ -12,3 +12,5 @@ https://github.com/bryanpijohnson/webscraping-challenge
     - **mars_info.json** - this is the optional json we were told to create in the 1st part of the challenge
     - **mars_data.csv** - this is the data file we were told to create
     - **.gitignore** - I have the initial files from the starter code saved to be referenced in case I make a mistake in the real file
+
+If you have any questions, please feel free to contact me.
